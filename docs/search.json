@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Camelot Caves Inc. (CCI)",
+    "section": "",
+    "text": "Case “Camelot Caves Inc. (CCI)” is created and designed by:\n\nBarbara Sainty\nStaci Kenno Pinkerton\nJianyuan(Andy) Hu\n\nI really take the pleasure to work with Barbara and Staci to heart and contribute to a modern accounting education.\nPlease see “Special Credits” page of the report for full credits and acknowledgements."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Camelot Caves Inc. (CCI)",
+    "section": "",
+    "text": "Case “Camelot Caves Inc. (CCI)” is created and designed by:\n\nBarbara Sainty\nStaci Kenno Pinkerton\nJianyuan(Andy) Hu\n\nI really take the pleasure to work with Barbara and Staci to heart and contribute to a modern accounting education.\nPlease see “Special Credits” page of the report for full credits and acknowledgements."
+  },
+  {
+    "objectID": "index.html#about-the-case",
+    "href": "index.html#about-the-case",
+    "title": "Camelot Caves Inc. (CCI)",
+    "section": "About the Case",
+    "text": "About the Case\nCamelot Caves Inc. (CCI) aims to bridge the gap between analytics and management accounting, providing a comprehensive learning experience for students from both disciplines. The case will offer various starting points, catering to different learning appetites, allowing inclusivity and adaptability. The core objective is to implement an end-to-end analytics project, encompassing skills including data extraction, transformation, and loading (ETL), data modeling, documentation, visual analytics, and then use the solution as cornerstone for the application of management accounting techniques, such as contribution margin analysis.\nStudents will engage with real-life, messy data from a home-grown Canadian winery business, allowing them to apply theoretical knowledge to practical scenarios. The case will emphasize contribution margin analysis and business planning/advisory, integrating both quantitative and qualitative factors for short-term and long-term decision-making."
+  },
+  {
+    "objectID": "index.html#solution-gallery",
+    "href": "index.html#solution-gallery",
+    "title": "Camelot Caves Inc. (CCI)",
+    "section": "Solution Gallery",
+    "text": "Solution Gallery\nPlease note\n\nThis page does not contain the full solution for CCI case.\nThis page has a suggested visual analytics solution for CCI case. It only serves as a guidence, and it by no means a definitive or the only solution. It has both Power BI and Tableau version, in case students would like to learn either of the tools.\n\n\nPower BITableau\n\n\nFor Power BI version, please following the link here: Camelot Caves Inc. Power BI\n\n\nFor best Tableau viewing experience, please following the link here: Camelot Caves Inc. Tableau"
+  }
+]

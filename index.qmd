@@ -1,0 +1,44 @@
+---
+title: "Camelot Caves Inc. (CCI)"
+subtitle: "A capstone accounting case that combine core management accounting skills with modern analytics"
+date: 2025-05-31
+author: Jianyuan(Andy) Hu
+---
+
+## Welcome !!
+
+Case "Camelot Caves Inc. (CCI)" is created and designed by: 
+
+- Barbara Sainty
+- Staci Kenno Pinkerton
+- Jianyuan(Andy) Hu
+
+I really take the pleasure to work with Barbara and Staci to heart and contribute to a modern accounting education. 
+
+Please see "Special Credits" page of the report for full credits and acknowledgements.
+
+## About the Case
+
+Camelot Caves Inc. (CCI) aims to bridge the gap between analytics and management accounting, providing a comprehensive learning experience for students from both disciplines. The case will offer various starting points, catering to different learning appetites, allowing inclusivity and adaptability. The core objective is to implement an end-to-end analytics project, encompassing skills including data extraction, transformation, and loading (ETL), data modeling, documentation, visual analytics, and then use the solution as cornerstone for the application of management accounting techniques, such as contribution margin analysis.
+
+Students will engage with real-life, messy data from a home-grown Canadian winery business, allowing them to apply theoretical knowledge to practical scenarios. The case will emphasize contribution margin analysis and business planning/advisory, integrating both quantitative and qualitative factors for short-term and long-term decision-making.
+
+## Solution Gallery
+
+Please note
+
+- This page does not contain the full solution for CCI case. 
+
+- This page has a suggested visual analytics solution for CCI case. It only serves as a guidence, and it by no means a definitive or the only solution. It has both Power BI and Tableau version, in case students would like to learn either of the tools. 
+
+::: {.panel-tabset}
+
+### Power BI
+
+For Power BI version, please following the link here: [Camelot Caves Inc. Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTQzN2U0NDAtMmZjZC00MWU0LTg3NzMtZjI3ZjgyMTg4OGI5IiwidCI6IjJlYTIwYzQ3LTNlZjUtNDNkNy1iZWQ3LWIwNDBmYzBhMzkyNiIsImMiOjZ9)
+
+### Tableau
+
+For best Tableau viewing experience, please following the link here: [Camelot Caves Inc. Tableau](https://public.tableau.com/views/WineAnalytics-AndyHu/SpeicalNotes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+:::
