@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Jianyuan(Andy) Hu"
+  title: "Camelot Caves Inc. (CCI)"
   page-footer: 
-    left: Created by Jianyuan(Andy) Hu, 2024 
+    left: Created by Jianyuan(Andy) Hu, 2025
     right: |
      This book was built with <a href="https://quarto.org/">Quarto</a>.
 
